@@ -288,3 +288,8 @@ Click the “Next” button.
 
 
 ![image](rage.png)
+
+
+
+
+![image](all.png)
