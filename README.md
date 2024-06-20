@@ -268,3 +268,6 @@ To achieve this follow these step by step guide below:
     IAM role associated with your Lambda function.
     Scroll down to the “Permissions” section of the IAM role details page.
     Click on the “Add inline policy” button to create a new inline policy.
+
+
+![image](inline.png)
