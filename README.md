@@ -273,6 +273,6 @@ To achieve this follow these step by step guide below:
 ![image](inline.png)
 
 
-    Choose services as EC2 filter permissions.<br>
-    Search “Snapshot” and add these options “DescribeSnapshots”, “Delete Snapshots”.<br>
+    Choose services as EC2 filter permissions.
+    Search “Snapshot” and add these options “DescribeSnapshots”, “Delete Snapshots”.
     Also add these permissions as well “Describe Volume”, and “Describe Instances”.
