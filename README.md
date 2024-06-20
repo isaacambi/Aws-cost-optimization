@@ -221,3 +221,8 @@ Here’s how you can create this Lambda function using the AWS Management Consol
 
 
 ![image](costop.png)
+
+
+## Edit Configuration
+
+Navigate to the “configuration tab” of the created Lambda function and click “Edit”.
