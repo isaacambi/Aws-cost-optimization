@@ -192,3 +192,6 @@ Here’s how you can create this Lambda function using the AWS Management Consol
 3. Click on “Create function”:
 
     On the Lambda Dashboard, click on the orange “Create function” button.
+
+
+![image](funtion.png)
