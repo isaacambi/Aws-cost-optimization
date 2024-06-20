@@ -285,3 +285,6 @@ To achieve this follow these step by step guide below:
 Under the Resources section select “All”.
 
 Click the “Next” button.
+
+
+![image](rage.png)
