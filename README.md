@@ -214,3 +214,6 @@ Here’s how you can create this Lambda function using the AWS Management Consol
 
 
 ![image](lamb.png)
+
+
+<pre>Click on “Create function” to proceed.</pre>
