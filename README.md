@@ -160,3 +160,7 @@ Optionally, add a description for the snapshot to provide more context</pre>
 
 
 ![image](snip.png)
+
+
+   <pre>Double-check the details you’ve entered to ensure accuracy.
+    Once you’re satisfied, click on the “Create Snapshot” button to initiate the snapshot creation process.</pre> 
