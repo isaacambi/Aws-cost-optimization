@@ -140,3 +140,7 @@ Currently we don’t have any snapshots available for our instance.
 To confirm this navigate to the EC2 Dashboard by searching for “EC2” in the services menu.
 
 Find the “Snapshots” section in the left-hand menu and click on it.
+
+
+
+![image](snapshot.png)
