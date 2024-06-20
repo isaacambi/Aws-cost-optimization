@@ -116,7 +116,7 @@ Access key and Secret access keys
 ![image](awsconfig.png)
 
 
-Verify the Volume
+## Verify the Volume
 
     Navigate to the created EC2 Instance under the “storage” section.
     This will open the details page for the volume, where you can see information 
