@@ -96,8 +96,8 @@ Here is a detailed step-by-step guide to creating an EC2 instance:
 
 ![image](launch.png)
 
-use Mobaxterm to ssh into your instance > click on sessions > New Sessions
-SSH > fill in the IP address of your instance > User (e.g ubuntu)
+use Mobaxterm to ssh into your instance > click on sessions > New Sessions >
+SSH > fill in the IP address of your instance > username (e.g ubuntu)
 Advanced settings > private key (select the one you downloaded or have been using)
 click ok (now you are in)
 
