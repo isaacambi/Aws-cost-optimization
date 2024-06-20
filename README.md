@@ -150,3 +150,6 @@ Find the “Snapshots” section in the left-hand menu and click on it.
 
 
 <pre>To create a snapshot of the instance click on the “Create Snapshot” button</pre>
+
+
+![image](snap.png)
