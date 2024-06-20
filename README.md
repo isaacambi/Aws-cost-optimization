@@ -118,11 +118,13 @@ Access key and Secret access keys
 
 ## Verify the Volume
 
+<pre>
     Navigate to the created EC2 Instance under the “storage” section.
     This will open the details page for the volume, where you can see information 
     like size, state, and type.
     Notice that this volume was automatically created during the instance setup 
-    process and is used as the root volume for your EC2 instance.
+    process and is used as the root volume for your EC2 instance. 
+</pre>    
 
 
 ![image](storage.png)
