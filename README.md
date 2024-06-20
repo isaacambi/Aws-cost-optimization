@@ -123,3 +123,6 @@ Access key and Secret access keys
     like size, state, and type.
     Notice that this volume was automatically created during the instance setup 
     process and is used as the root volume for your EC2 instance.
+
+
+![image](storage.PNG)
