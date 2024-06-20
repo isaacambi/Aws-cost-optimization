@@ -92,3 +92,6 @@ Here is a detailed step-by-step guide to creating an EC2 instance:
 
     Review your instance configuration.
     Click “Launch” to proceed.
+
+
+![image](launch.png)
