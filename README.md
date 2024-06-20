@@ -302,3 +302,13 @@ Give the name of the policy then click the “Create Policy” button.
 
 
 Make sure that the created policy is attached to the existing role.
+
+
+Our Lambda function, powered by Boto3, automates the identification and deletion
+of stale EBS snapshots. Key features include:
+
+    Snapshot Retrieval: Fetching owned EBS snapshots and active EC2 instances.
+    Stale Snapshot Detection: Identifying unattached snapshots and checking
+    volume-attachment status.
+    Exception Handling: Ensuring robustness with error management.
+    Cost Optimization: Efficiently managing resources to minimize storage costs.
