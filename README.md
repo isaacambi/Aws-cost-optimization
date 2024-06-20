@@ -109,6 +109,8 @@ click ok (now you are in)
 Next you have to create an IAM user
 Go to IAM > Users > create user > download user credentials > create access keys
 download access keys 
+in your command line interface "aws configure" > then install it > fill in the 
+Access key and Secret access keys
 
 
 ![image](awsconfig.png)
