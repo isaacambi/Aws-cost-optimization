@@ -229,3 +229,10 @@ Navigate to the “configuration tab” of the created Lambda function and click
 
 
 ![image](view.png)
+
+
+<pre>    Look for the section where you can adjust the function timeout.
+    By default, the timeout is set to “3 seconds”. Change this to “10 seconds”.
+    This value represents the maximum amount of time (in seconds) that Lambda will allow the function to run before terminating it.
+    It is good practice to keep the execution time as small as possible since AWS will charge you using this as one of the parameters.
+    Click “Save” to apply the changes.</pre>
