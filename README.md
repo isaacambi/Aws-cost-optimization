@@ -293,3 +293,6 @@ Click the “Next” button.
 
 
 ![image](all.png)
+
+
+Give the name of the policy then click the “Create Policy” button.
