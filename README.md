@@ -299,3 +299,6 @@ Give the name of the policy then click the “Create Policy” button.
 
 
 ![image](ebsoptics.png)
+
+
+Make sure that the created policy is attached to the existing role.
