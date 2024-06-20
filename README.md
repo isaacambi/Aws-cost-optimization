@@ -239,3 +239,23 @@ Navigate to the “configuration tab” of the created Lambda function and click
 
 
 ![image](sec.png)
+
+
+
+
+## IAM Role
+
+In our project, the Lambda function is central to optimizing AWS costs by identifying and 
+deleting stale EBS snapshots.
+
+To accomplish this, it requires specific permissions. These include the ability to describe 
+and delete snapshots, as well as to describe volumes and instances.
+
+Roles are used to delegate access to AWS resources securely, without the need to share long-term
+credentials like access keys.
+
+To achieve this follow these step by step guide below:
+
+    In the Lambda function details page, click on the “Configuration” tab.
+    Scroll down to the “Permissions” section to expand it.
+    Click on the execution role link to open the IAM role configuration in a new tab.
