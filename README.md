@@ -105,3 +105,12 @@ click ok (now you are in)
 ![image](mobaxterm.png)
 
 
+
+Next you have to create an IAM user
+Go to IAM > Users > create user > download user credentials > create access keys
+download access keys 
+
+
+![image](awsconfig.png)
+
+
