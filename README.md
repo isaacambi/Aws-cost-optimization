@@ -202,8 +202,7 @@ Here’s how you can create this Lambda function using the AWS Management Consol
 
 
 
-
-4. Choose Authoring Method:
+<pre>4. Choose Authoring Method:
 
     Select “Author from scratch” to create a new Lambda function from scratch.
 
@@ -211,3 +210,4 @@ Here’s how you can create this Lambda function using the AWS Management Consol
 
     Provide a meaningful name for your Lambda function.
     Select the runtime environment. Since we’re using Python, choose “Python 3.12”.
+</pre>
