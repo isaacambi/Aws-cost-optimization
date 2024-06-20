@@ -259,3 +259,6 @@ To achieve this follow these step by step guide below:
     In the Lambda function details page, click on the “Configuration” tab.
     Scroll down to the “Permissions” section to expand it.
     Click on the execution role link to open the IAM role configuration in a new tab.
+
+
+![image](configuration.png)
