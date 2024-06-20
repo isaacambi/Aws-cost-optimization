@@ -155,5 +155,5 @@ Find the “Snapshots” section in the left-hand menu and click on it.
 ![image](snap.png)
 
 
-Choose the EBS volume for which you want to create a snapshot from the dropdown menu.
-Optionally, add a description for the snapshot to provide more context
+<pre>Choose the EBS volume for which you want to create a snapshot from the dropdown menu.
+Optionally, add a description for the snapshot to provide more context</pre>
