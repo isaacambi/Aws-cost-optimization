@@ -167,3 +167,28 @@ Optionally, add a description for the snapshot to provide more context</pre>
 
 
 ![image](seal.png)
+
+
+## AWS Lambda
+
+Creating an AWS Lambda function allows you to execute code in response to
+events without provisioning or managing servers.
+
+In our project, we aim to automate the identification and deletion of stale
+EBS snapshots using an AWS Lambda function.
+
+Here’s how you can create this Lambda function using the AWS Management Console:
+
+    Log into AWS Management Console:
+
+    Navigate to the AWS Management Console.
+    Sign in with your AWS credentials.
+
+2. Open the Lambda Dashboard:
+
+    In the AWS Management Console, search for “Lambda” in the services.
+    Select “Lambda” from the list of services.
+
+3. Click on “Create function”:
+
+    On the Lambda Dashboard, click on the orange “Create function” button.
