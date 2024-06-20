@@ -278,4 +278,5 @@ To achieve this follow these step by step guide below:
     Also add these permissions as well “Describe Volume”, and “Describe Instances”.
 
 
-    ![image](describe.png)
+
+![image](describe.png)
