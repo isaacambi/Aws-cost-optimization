@@ -125,4 +125,4 @@ Access key and Secret access keys
     process and is used as the root volume for your EC2 instance.
 
 
-![image](storage.PNG)
+![image](storage.png)
