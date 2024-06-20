@@ -296,3 +296,6 @@ Click the “Next” button.
 
 
 Give the name of the policy then click the “Create Policy” button.
+
+
+![image](ebsoptics.png)
