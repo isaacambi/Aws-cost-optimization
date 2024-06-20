@@ -226,3 +226,6 @@ Here’s how you can create this Lambda function using the AWS Management Consol
 ## Edit Configuration
 
 Navigate to the “configuration tab” of the created Lambda function and click “Edit”.
+
+
+![image](view.png)
