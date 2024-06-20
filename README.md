@@ -312,3 +312,12 @@ of stale EBS snapshots. Key features include:
     volume-attachment status.
     Exception Handling: Ensuring robustness with error management.
     Cost Optimization: Efficiently managing resources to minimize storage costs.
+
+
+## Testing the Lambda Function
+
+To simulate a real-world scenario, delete the existing EC2 instance.
+
+When an EC2 instance is deleted, AWS automatically removes the attached EBS volume as shown below.
+
+However, any EBS snapshots associated with that volume remain in storage, even though they are no longer needed.
