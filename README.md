@@ -236,3 +236,6 @@ Navigate to the “configuration tab” of the created Lambda function and click
     This value represents the maximum amount of time (in seconds) that Lambda will allow the function to run before terminating it.
     It is good practice to keep the execution time as small as possible since AWS will charge you using this as one of the parameters.
     Click “Save” to apply the changes.</pre>
+
+
+![image](sec.png)
