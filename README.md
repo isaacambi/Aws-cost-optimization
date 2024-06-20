@@ -198,6 +198,11 @@ Here’s how you can create this Lambda function using the AWS Management Consol
 
 
 
+
+
+
+
+
 4. Choose Authoring Method:
 
     Select “Author from scratch” to create a new Lambda function from scratch.
