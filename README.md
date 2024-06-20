@@ -211,3 +211,6 @@ Here’s how you can create this Lambda function using the AWS Management Consol
     Provide a meaningful name for your Lambda function.
     Select the runtime environment. Since we’re using Python, choose “Python 3.12”.
 </pre>
+
+
+![image](lamb.png)
