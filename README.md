@@ -135,11 +135,14 @@ Access key and Secret access keys
 
 
 ### Creating Snapshots of the Volume
-Currently we don’t have any snapshots available for our instance.
+<pre>
+    Currently we don’t have any snapshots available for our instance.
 
-To confirm this navigate to the EC2 Dashboard by searching for “EC2” in the services menu.
+To confirm this navigate to the EC2 Dashboard by searching for “EC2” 
+in the services menu.
 
 Find the “Snapshots” section in the left-hand menu and click on it.
+</pre>
 
 
 
