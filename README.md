@@ -363,3 +363,10 @@ def lambda_handler(event, context):
                     ec2.delete_snapshot(SnapshotId=snapshot_id)
                     print(f"Deleted EBS snapshot {snapshot_id} as its associated volume was not found.")
 ```
+
+
+
+
+This script is pivotal in our AWS cost optimization strategy, showcasing
+the effectiveness of serverless computing for streamlining operations.
+
