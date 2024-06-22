@@ -380,3 +380,10 @@ the effectiveness of serverless computing for streamlining operations.
 
 
 ![image](test.png)
+
+
+
+Once your function passes testing, you can deploy it by clicking on the 
+“Deploy” button.
+The Lambda function automatically finds and deletes these stale snapshots,
+helping you manage your AWS expenses more efficiently.
